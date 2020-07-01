@@ -103,7 +103,7 @@ class WebActivity : AppCompatActivity() {
 
         title = "Fedfina"
 
-        webview.loadUrl("https://los.ltfs.com")
+        webview.loadUrl("http://uat-demo.getlend.in/clientId/kuliza_fedbankPersonalLoan")
 
         ActivityCompat.requestPermissions(
             this,
